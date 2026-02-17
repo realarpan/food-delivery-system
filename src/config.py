@@ -111,7 +111,7 @@ ALLOWED_EXTENSIONS: tuple = ('jpg', 'jpeg', 'png', 'gif', 'pdf')
 # ==================================================================================
 TIMEZONE: str = 'Asia/Kolkata'
 DEFAULT_LOCALE: str = 'en_IN'
-CURRENCY: str = 'INR'
+CURRENCY: str = 'USD'
 
 # ==================================================================================
 # END OF CONFIGURATION
