@@ -31,7 +31,7 @@ DB_ECHO: bool = False  # Set to True for SQL query logging
 # ==================================================================================
 # APPLICATION SETTINGS
 # ==================================================================================
-APP_NAME: str = 'Food Delivery System'
+APP_NAME: str = 'Food Delivery App'
 APP_VERSION: str = '1.0.0'
 DEBUG_MODE: bool = os.getenv('DEBUG', 'False').lower() == 'true'
 
